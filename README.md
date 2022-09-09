@@ -1,2 +1,3 @@
 # segmentation
-* project for image segmentation research
+
+* project for image segmentation research with PyTorch
